@@ -117,7 +117,7 @@ New QA artifacts, automation scripts, and testing documentation are continuously
 
 **LinkedIn**
 
-https: [AzizSubhani](//www.linkedin.com/in/aziz-subhani-79131615a/)
+[AzizSubhani](//www.linkedin.com/in/aziz-subhani-79131615a/)
 
 **GitHub**
 
