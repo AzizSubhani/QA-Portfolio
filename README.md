@@ -49,9 +49,7 @@ QA-Portfolio
 ├── 05_Test_Execution_Report
 ├── 06_Test_Summary_Report
 ├── 07_API_Testing
-├── 08_Database_Testing
-├── 09_Selenium_Automation
-└── 10_Test_Data
+└── 08_Database_Testing
 ```
 
 ---
