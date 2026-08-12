@@ -32,8 +32,6 @@ The purpose of this repository is to demonstrate practical QA skills including:
 - Database Testing
 - Requirement Traceability Matrix (RTM)
 - Test Execution Reporting
-- Selenium Automation
-- QA Documentation
 
 ---
 
@@ -74,12 +72,6 @@ QA-Portfolio
 - CRUD Validation
 - Data Verification
 
-### Automation Testing
-- Selenium WebDriver
-- Java
-- TestNG
-- Page Object Model (POM)
-
 ### Version Control
 - Git
 - GitHub
@@ -98,8 +90,6 @@ QA-Portfolio
 | 06_Test_Summary_Report | Overall testing summary and project quality assessment |
 | 07_API_Testing | API validation using Postman |
 | 08_Database_Testing | SQL queries and database validation |
-| 09_Selenium_Automation | Selenium WebDriver automation framework |
-| 10_Test_Data | Test datasets used during execution |
 
 ---
 
